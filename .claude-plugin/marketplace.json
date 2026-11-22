@@ -16,6 +16,12 @@
         "version": "6.10.1"
       },
       "category": "development"
+    },
+    {
+      "name": "rea-desk",
+      "description": "Scope guard, evidence ledger pane and per-target case files for REA sessions in Claude Code.",
+      "source": "./plugins/rea-desk",
+      "category": "development"
     }
   ]
 }
