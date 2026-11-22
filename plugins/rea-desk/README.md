@@ -18,6 +18,8 @@ A Claude Code mod for working with [REA](https://github.com/morluto/rea) (Revers
 3. `/rea-handoff`, then grill the design and write the spec and tickets.
 4. Build test-first and review against the spec.
 
+The build stage uses mattpocock/skills only. Don't add obra/superpowers alongside it: both run their own plan, test and review loop, and two processes compete.
+
 ## Commands
 
 | Command | Does |
