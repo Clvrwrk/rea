@@ -1,0 +1,7 @@
+{
+  "name": "rea-desk",
+  "version": "0.1.0",
+  "description": "Scope guard, evidence ledger pane and per-target case files for REA (Reverse Engineer Anything) sessions.",
+  "types": "./types/index.d.ts",
+  "license": "MIT"
+}
